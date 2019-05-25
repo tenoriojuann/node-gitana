@@ -1,0 +1,23 @@
+{
+  "name": "node-gitana",
+  "version": "1.0.0",
+  "description": "Wraps the Gitana module in promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitana",
+    "node-gitana",
+    "cloudcms"
+  ],
+  "author": "Juan E. Tenorio Arzola",
+  "license": "ISC",
+  "dependencies": {
+    "gitana": "^1.0.298"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0"
+  }
+}

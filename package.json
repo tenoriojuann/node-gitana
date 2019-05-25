@@ -11,6 +11,10 @@
     "node-gitana",
     "cloudcms"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenoriojuann/node-gitana.git"
+  },
   "author": "Juan E. Tenorio Arzola",
   "license": "ISC",
   "dependencies": {

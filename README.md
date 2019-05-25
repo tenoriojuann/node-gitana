@@ -1,4 +1,4 @@
-# gitana-node
+# node-gitana
 
 This is a wrapper for the "gitana" module by CloudCMS.
 
